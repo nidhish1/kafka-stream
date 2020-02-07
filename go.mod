@@ -1,4 +1,4 @@
-module gitlab.lynk.co.in/core-team/kafka-stream
+module github.com/nidhish1/kafka-stream
 
 go 1.13
 
