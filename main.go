@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	connection "gitlab.lynk.co.in/core-team/kafka-stream/repository"
+	connection "github.com/nidhish1/kafka-stream"
 
 	"github.com/spf13/viper"
 )
